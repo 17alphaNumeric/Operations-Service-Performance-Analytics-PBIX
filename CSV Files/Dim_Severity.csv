@@ -1,0 +1,4 @@
+severity_key,severity_label,description
+1,SEV1,Critical impact
+2,SEV2,Major impact
+3,SEV3,Minor impact

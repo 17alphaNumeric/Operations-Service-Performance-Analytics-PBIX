@@ -1,0 +1,51 @@
+system_key,system_name,system_type,description
+1,System_1,Database,Core Database infrastructure
+2,System_2,Database,Core Cloud infrastructure
+3,System_3,Database,Core Cloud infrastructure
+4,System_4,Cloud,Core Application infrastructure
+5,System_5,Database,Core Web Service infrastructure
+6,System_6,Network,Core Web Service infrastructure
+7,System_7,Cloud,Core Web Service infrastructure
+8,System_8,Application,Core Database infrastructure
+9,System_9,Cloud,Core Cloud infrastructure
+10,System_10,Cloud,Core Application infrastructure
+11,System_11,Application,Core Database infrastructure
+12,System_12,Network,Core Application infrastructure
+13,System_13,Network,Core Cloud infrastructure
+14,System_14,Database,Core Application infrastructure
+15,System_15,Application,Core Web Service infrastructure
+16,System_16,Web Service,Core Cloud infrastructure
+17,System_17,Application,Core Application infrastructure
+18,System_18,Application,Core Network infrastructure
+19,System_19,Cloud,Core Web Service infrastructure
+20,System_20,Web Service,Core Database infrastructure
+21,System_21,Application,Core Application infrastructure
+22,System_22,Database,Core Database infrastructure
+23,System_23,Application,Core Web Service infrastructure
+24,System_24,Cloud,Core Network infrastructure
+25,System_25,Cloud,Core Database infrastructure
+26,System_26,Network,Core Application infrastructure
+27,System_27,Database,Core Web Service infrastructure
+28,System_28,Network,Core Database infrastructure
+29,System_29,Application,Core Cloud infrastructure
+30,System_30,Database,Core Network infrastructure
+31,System_31,Cloud,Core Web Service infrastructure
+32,System_32,Web Service,Core Web Service infrastructure
+33,System_33,Network,Core Web Service infrastructure
+34,System_34,Database,Core Web Service infrastructure
+35,System_35,Web Service,Core Cloud infrastructure
+36,System_36,Network,Core Web Service infrastructure
+37,System_37,Network,Core Network infrastructure
+38,System_38,Application,Core Network infrastructure
+39,System_39,Database,Core Application infrastructure
+40,System_40,Application,Core Cloud infrastructure
+41,System_41,Cloud,Core Cloud infrastructure
+42,System_42,Application,Core Database infrastructure
+43,System_43,Application,Core Network infrastructure
+44,System_44,Cloud,Core Network infrastructure
+45,System_45,Network,Core Application infrastructure
+46,System_46,Web Service,Core Application infrastructure
+47,System_47,Application,Core Cloud infrastructure
+48,System_48,Database,Core Application infrastructure
+49,System_49,Network,Core Database infrastructure
+50,System_50,Database,Core Web Service infrastructure
